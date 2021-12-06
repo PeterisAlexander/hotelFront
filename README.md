@@ -1,4 +1,6 @@
 # HotelFront
+## Personal project at the end of the training
+## Management of hotel reservations
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
